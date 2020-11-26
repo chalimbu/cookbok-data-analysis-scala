@@ -5,7 +5,7 @@ import breezeChapter1.BreezeVectorsCreation
 import org.scalatest.funsuite.AnyFunSuite
 
 class BreezeVectorCreationTest extends AnyFunSuite{
-  test("retornos de funciones para el ejercisio 1"){
+  ignore("retornos de funciones para el ejercisio 1"){
     val vector=DenseVector(1,2,3,4)
     val sparse= SparseVector(0,0,0,2,4)
     assert(BreezeVectorsCreation.eje1()==(sparse,vector))
