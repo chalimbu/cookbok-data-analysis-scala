@@ -196,3 +196,4 @@ logs/
 projectFilesBackup/
 *snapshots/
 *journal/
+target/*
