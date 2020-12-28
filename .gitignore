@@ -182,6 +182,7 @@ lib_managed/
 src_managed/
 project/boot/
 project/plugins/project/
+/target/**
 
 # sub-modules
 */target/
@@ -190,10 +191,14 @@ project/plugins/project/
 .scala_dependencies
 .worksheet
 
-### SURA
+###
 data/
 logs/
 projectFilesBackup/
 *snapshots/
 *journal/
 target/*
+
+##intellij specific
+.bsp/
+.bsp

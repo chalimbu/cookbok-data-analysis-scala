@@ -1,3 +1,3 @@
-[debug] not up to date. inChanged = true, force = false
-[debug] Updating ProjectRef(uri("file:/home/sebastian/Sura%20en%20Linea/scala-data-analysis-cookbok/project/"), "scala-data-analysis-cookbok-build")...
-[debug] Done updating ProjectRef(uri("file:/home/sebastian/Sura%20en%20Linea/scala-data-analysis-cookbok/project/"), "scala-data-analysis-cookbok-build")
+[debug] not up to date. inChanged = false, force = false
+[debug] Updating ProjectRef(uri("file:/home/sebastian/Sura%20en%20Linea/estudio/scala-data-analysis-cookbok/project/"), "scala-data-analysis-cookbok-build")...
+[debug] Done updating ProjectRef(uri("file:/home/sebastian/Sura%20en%20Linea/estudio/scala-data-analysis-cookbok/project/"), "scala-data-analysis-cookbok-build")
